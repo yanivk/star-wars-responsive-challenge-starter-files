@@ -1,0 +1,27 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 100%;
+  text-align: center;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+.barre{
+  background-color: orange;
+  width: 100%;
+}
+
+main img{
+  width: 100%;
+}
+
+.box h2, .box p{
+  text-align: left;
+}
